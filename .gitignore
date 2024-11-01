@@ -90,5 +90,4 @@ target/
 /metrics.json
 /model.pkl
 mlops/
-models/
 reports/
